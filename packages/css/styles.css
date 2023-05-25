@@ -12,7 +12,7 @@
   /* HSL color mode */
   --hue-color: 0; /* Starting hue value for red */
   --first-color: #FF0000;
-  --first-color-second: #5448C8;
+  --first-color-second: #FF0000;
   --first-color-alt: hsl(var(--hue-color), 57%, 53%);
   --first-color-lighter: hsl(var(--hue-color), 92%, 85%);
   --title-color: hsl(var(--hue-color), 8%, 15%);
